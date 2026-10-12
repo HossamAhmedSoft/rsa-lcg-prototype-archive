@@ -73,5 +73,5 @@ Decrypted Message (LCG-based): Hello!
 
 ## Author & License
 
-- **Developer:** Hossam Ahmed ([@KabtinBandar](https://github.com/KabtinBandar))
+- **Developer:** Hossam Ahmed ([@HossamAhmedSoft](https://github.com/HossamAhmedSoft))
 - **License:** MIT
