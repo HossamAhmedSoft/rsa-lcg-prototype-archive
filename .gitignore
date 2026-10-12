@@ -1,0 +1,10 @@
+# NetBeans & Java .gitignore
+build/
+dist/
+nbproject/private/
+*.class
+.netbeans_automatic_build
+.netbeans_update_resources
+.idea/
+*.iml
+.vscode/
